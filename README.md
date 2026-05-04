@@ -4,8 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green?style=flat-square&logo=autohotkey)
 ![Locale](https://img.shields.io/badge/Locale-正體中文-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-GPL_v3-red?style=flat-square)
-![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Screen_Mirror?style=flat-square&color=blue)
-![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Screen_Mirror/total?style=flat-square&logo=github)
+
 
 **Screen Mirror** 是一款基於 AutoHotkey v2 開發的輕量化螢幕監視工具，專為多螢幕環境設計。它能將指定的螢幕畫面即時鏡像至一個可縮放的視窗中，讓您在操作主螢幕時，也能輕鬆監視副螢幕或遠端顯示器的動態。
 
