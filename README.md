@@ -1,4 +1,4 @@
-# Screen Mirror (螢幕鏡像監視工具)
+# Screen Mirror
 
 ![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
 ![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green?style=flat-square&logo=autohotkey)
